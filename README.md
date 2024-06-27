@@ -1,6 +1,5 @@
 <h1><center>Fitness Tracker</center></h1>
-<iframe src="https://giphy.com/embed/n1sSQjbnjDBRwlSrP7" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-<p><a href="https://giphy.com/stickers/spotify-grwm-grwmusic-spotify-x-maybelline-n1sSQjbnjDBRwlSrP7"></a></p>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmY2MzMybzZ0NGZidmJmZzFlNjd5cjFrc2E2eWE5bm5qbHd0MzRjMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9XY47OBJKDdLKzpaUN/giphy.gif">
 
 ## Required APIs
 1. Nutrition API (https://www.nutritionix.com/business/api)
