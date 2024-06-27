@@ -1,5 +1,8 @@
 <h1><center>Fitness Tracker</center></h1>
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmY2MzMybzZ0NGZidmJmZzFlNjd5cjFrc2E2eWE5bm5qbHd0MzRjMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9XY47OBJKDdLKzpaUN/giphy.gif">
+<div align="center">
+  <a><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmY2MzMybzZ0NGZidmJmZzFlNjd5cjFrc2E2eWE5bm5qbHd0MzRjMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9XY47OBJKDdLKzpaUN/giphy.gif"alt="LOGO"></a>
+</div>
+
 
 ## Required APIs
 1. Nutrition API (https://www.nutritionix.com/business/api)
