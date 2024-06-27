@@ -13,13 +13,13 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/0xfarben/fitness-tracker.git
+  git clone https://github.com/0xfarben/Spotify-Playlist-Creator.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd fitness-tracker
+  cd Spotify-Playlist-Creator
 ```
 
 NOTE: Before running make sure .env file values are correct
@@ -29,9 +29,27 @@ Run the Python file
   python main.py
 ```
 
+### Give Input
+ <div align="center">
+    <a><img src="https://iili.io/d3QOlhN.png" alt="input"/></a>
+  </div>
 
+### Give Access to the API
+<div align="center">
+    <a><img src="https://iili.io/d3QO0QI.png" alt="authorize-spotify"/></a>
+  </div>
 
-### Output
+### Copy the URL you got after granting access
+<div align="center">
+    <a><img src="https://iili.io/d3QOcIp.png" alt="uri"/></a>
+  </div>
+
+### Paste in the terminal
+ <div align="center">
+    <a><img src="https://iili.io/d3QOlhN.png" alt="input"/></a>
+  </div>
+  
+### Output - Successfully Created Playlist
  <div align="center">
     <a><img src="https://iili.io/d3QRkSs.png" alt="playlist"/></a>
   </div>
