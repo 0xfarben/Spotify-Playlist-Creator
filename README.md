@@ -1,4 +1,4 @@
-<h1><center>Fitness Tracker</center></h1>
+<h1><center>Spotify Playlist Creator from Billboard</center></h1>
 <div align="center">
   <a><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmY2MzMybzZ0NGZidmJmZzFlNjd5cjFrc2E2eWE5bm5qbHd0MzRjMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9XY47OBJKDdLKzpaUN/giphy.gif"alt="LOGO"></a>
 </div>
@@ -9,7 +9,7 @@
    #### Get the first Plan (Hacker Plan)
    API Docs : (https://docx.syndigo.com/developers)
   <div align="center">
-    <a><img src="https://iili.io/d3G4ZUQ.png" alt="LOGO"/></a>
+    <a><img src="https://iili.io/d3QRkSs.png" alt="playlist"/></a>
   </div>
    
 2. Sheety (https://sheety.co/)
